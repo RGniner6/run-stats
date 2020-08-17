@@ -4,13 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ActivityListComponent } from './component/activity-list/activity-list.component';
-import { ActivityComponent } from './component/activity/activity.component';
+import { ActivityDetailsComponent } from './component/activity-details/activity-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ActivityListComponent,
-    ActivityComponent
+    ActivityDetailsComponent
   ],
   imports: [
     BrowserModule,
