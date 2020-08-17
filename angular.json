@@ -41,9 +41,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bootstrap/dist/css/bootstrap.css",
+              "node_modules/leaflet/dist/leaflet.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/leaflet-omnivore/leaflet-omnivore.min.js"
+            ]
           },
           "configurations": {
             "production": {
