@@ -16,7 +16,7 @@ export const SAVED_ACTIVITIES: Activity[] = [
     date: new Date('02/02/2019'),
     distance: 7.5,
     comments:"🌊 catchin waves son 😎",
-    gpx: '../../assets/gpx/2019-04-02 6b6d9316-6028-4695-bd93-9c735230381a Running Nike'
+    gpx: '../../assets/gpx/2019-04-02 6b6d9316-6028-4695-bd93-9c735230381a Running Nike.gpx'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const SAVED_ACTIVITIES: Activity[] = [
     date: new Date('12/20/2019'),
     distance: 10.2,
     comments:"🔥 Burning cals",
-    gpx: '../../assets/gpx/2018-12-20 adffc02e-b3eb-4811-9523-bfb38f44bf4a Running Nike'
+    gpx: '../../assets/gpx/2018-12-20 adffc02e-b3eb-4811-9523-bfb38f44bf4a Running Nike.gpx'
   },
   {
     id: 4,
@@ -32,6 +32,6 @@ export const SAVED_ACTIVITIES: Activity[] = [
     date: new Date('01/27/2020'),
     distance: 12.8,
     comments:"🏃🏾 toasted",
-    gpx: '../../assets/gpx/2020-01-27 f8851209-18d4-42cf-bcb7-b8b81a443214 Running Nike'
+    gpx: '../../assets/gpx/2020-01-27 f8851209-18d4-42cf-bcb7-b8b81a443214 Running Nike.gpx'
   }
 ]
