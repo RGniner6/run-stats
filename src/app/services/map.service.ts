@@ -46,7 +46,6 @@ export class MapService {
     L.tileLayer('https://api.mapbox.com/styles/v1/rgniner6/cke00b2r90yhd1arrc5ubvvdr/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoicmduaW5lcjYiLCJhIjoiY2tkeWtvaTRhM2R0aTJycXFwcnptM241aSJ9.gv_AZfxBFbt6X3NLqzszWw', {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
       maxZoom: 18,
-      // id: 'mapbox.dark',
       accessToken: apiToken
     }).addTo(map);
 

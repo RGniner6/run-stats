@@ -4,7 +4,7 @@ export const SAVED_ACTIVITIES: Activity[] = [
 
   {
     id: 1,
-    name: "Run around the village green",
+    name: "Manipal run",
     date: new Date('03/24/2016'),
     distance: 6.5,
     comments:"Felt great! had fantastic coffee beforehand",
@@ -12,10 +12,10 @@ export const SAVED_ACTIVITIES: Activity[] = [
   },
   {
     id: 2,
-    name: "Run to Coogee",
+    name: "Run around the village green",
     date: new Date('02/02/2019'),
     distance: 7.5,
-    comments:"🌊 catchin waves son 😎",
+    comments:" casual friday run",
     gpx: '../../assets/gpx/2019-04-02 6b6d9316-6028-4695-bd93-9c735230381a Running Nike.gpx'
   },
   {
